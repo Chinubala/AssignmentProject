@@ -1,0 +1,19 @@
+
+.slider-image {
+	text-align: center;
+	margin: auto;
+	width: 70%;
+	padding: 10px;
+	height: 90%;
+}
+p {
+	font-size: 0.555em; /* 14px/16=0.875em */
+	margin-bottom: 0rem;
+}
+.slider-content {
+	height: 34%;
+}
+.nopadding {
+	padding: 0 !important;
+	margin: 0 !important;
+}

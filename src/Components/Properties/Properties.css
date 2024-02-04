@@ -1,0 +1,31 @@
+
+.images-grid {
+	text-align: center;
+	margin: auto;
+	width: 70%;
+	padding: 10px;
+	height: 90%;
+	/* margin-bottom: 10%; */
+}
+.properties-label {
+	text-align: center;
+	margin: auto;
+	padding-top: 10px;
+	margin-left: -50px;
+}
+.properties-page {
+	background-image: url("../../image/line-graph.avif");
+	background-size: cover;
+	height: 100%;
+}
+.property-label {
+	font-size: xx-large;
+	color: yellow;
+}
+.properties-bg {
+	align-items: center;
+	position: relative;
+	background-image: url("../../image/color-background.jpg");
+	background-size: cover;
+	height: 100%;
+}
