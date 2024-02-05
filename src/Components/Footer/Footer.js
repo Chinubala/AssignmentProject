@@ -57,9 +57,9 @@ export const Footer = () => {
 					</div>
 				</div>
 				<hr style={{height:"2px",borderWidth:"0",color:"gray",backgroundColor:"gray"}}/>
-				<div  className="text-center ">
-				<h6 className="text-white display-5">2024 ALL RIGHTS RESERVED | POWERED BY <span className="text-warning">PROPERTY VISTA</span></h6>
-				<h6>DISCLAMIER</h6>
+				<div  className="text-center mb-5">
+				<h6 className="text-white display-5"> Ⓒ 2024 ALL RIGHTS RESERVED | POWERED BY <span className="text-warning">PROPERTY VISTA</span></h6>
+				<h6 >DISCLAIMER</h6>
 				</div>
 				
 							</section>
